@@ -1,0 +1,3 @@
+== [Adopt-a-JSR] Servlet 4.0
+
+* http://download.oracle.com/otndocs/jcp/servlet-4-edr-spec/index.html[Specification]

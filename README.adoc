@@ -1,3 +1,5 @@
 == [Adopt-a-JSR] Servlet 4.0
 
+image:https://badges.gitter.im/perujug/javaee8-servlet.svg[link="https://gitter.im/perujug/javaee8-servlet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
+
 * http://download.oracle.com/otndocs/jcp/servlet-4-edr-spec/index.html[Specification]
